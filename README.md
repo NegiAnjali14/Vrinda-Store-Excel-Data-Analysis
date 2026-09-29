@@ -14,3 +14,7 @@ Contains the Excel-based analysis, Pivot Tables, charts, summaries, and dashboar
 `dashboard.png`
 
 Preview of the final Excel dashboard created from the analyzed data.
+
+## 📊 Dashboard Preview
+
+![Vrinda Store Dashboard](dashboard.png)
